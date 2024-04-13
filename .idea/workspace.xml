@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cef19307-e5b0-4144-88f8-c9e29ba84993" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q010.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f3JvqiiFEaZsPoAFaW1kehQSEk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Q001  Festa da Marilda 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Q003">
+    <configuration name="Q001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Questionário 09 - Listas e Ordenação" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Nina D Belchior\Desktop\Menk\NINA\Progama de NINA\nina-server\python\Questionário 09 - Listas e Ordenação\Q001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Questionário 08 - Laço For" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questionário 08 - Laço For/Q003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Q003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef19307-e5b0-4144-88f8-c9e29ba84993" name="Changes" comment="" />
+      <created>1713024076580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713024076580</updated>
+    </task>
+    <servers />
+  </component>
+</project>
