@@ -5,22 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cef19307-e5b0-4144-88f8-c9e29ba84993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 01 - Primeiros Programas/Q010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questionário 07 - Strings/Q010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 03 - Condicional Simples/Q010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questionário 04 - Condicionais Aninhados e Múltiplos/Q011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questionário 02 - Expressões/Q001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Questionário 02 - Expressões/Q001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
